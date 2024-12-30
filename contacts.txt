@@ -1,3 +1,0 @@
-John Doe, 12345678, john@example.com
-Kate Feny, 7531491, kane@example.comAbcd, 1234, abc@gmail.com
-Abcd,, 1234, abcd@gmail.com

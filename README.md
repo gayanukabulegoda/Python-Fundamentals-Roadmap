@@ -1,4 +1,4 @@
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="65px"> Python Fundamentals Roadmap
+# <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="65px"> Python Fundamentals Roadmap
 
 <p>
   Welcome to the Python Fundamentals Roadmap! 
@@ -19,7 +19,8 @@
         <li><a href="#lesson-03---loops-and-functions">Lesson-03 - Loops and Functions</a></li>
         <li><a href="#lesson-04---advanced-functions-and-modules">Lesson-04 - Advanced Functions and Modules</a></li>
         <li><a href="#lesson-05---object-oriented-programming">Lesson-05 - Object-Oriented Programming</a></li>
-        <li><a href="#lesson-06---advanced-python-concepts">Lesson-06 - Advanced Python Concepts</a></li>
+        <li><a href="#lesson-06---essential-python-concepts">Lesson-06 - Essential Python Concepts</a></li>
+        <li><a href="#lesson-07---python-open-source-libraries">Lesson-07 - Python Open Source Libraries</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -29,7 +30,7 @@
 
 ## Note
 
-For additional reference, you can access the Python Fundamentals Handwritten note [here](https://drive.google.com/file/d/1Y47-by4oMJNXjF6m_81l_ItUCd_unAST/view?usp=sharing).
+For additional reference, you can access the Python Fundamentals Handwritten note [here](https://drive.google.com/file/d/1tWt9J5agIBxBHnUBBTcdXHhs8e7VOxRU/view?usp=sharing).
 
 ## Lessons
 
@@ -73,21 +74,30 @@ For additional reference, you can access the Python Fundamentals Handwritten not
   <pre><code>git clone -b lesson/Day_05 --single-branch https://github.com/gayanukabulegoda/Python-Fundamentals-Roadmap.git</code></pre>
 </ul>
 
-### Lesson-06 - Advanced Python Concepts
+### Lesson-06 - Essential Python Concepts
 
 <ul>
-  <li>Integrates comprehensive discussions and practical examples on various fundamental Python concepts into the Python-Fundamentals-Roadmap repository. The topics covered include Python decorators, passing functions as arguments, nested functions, and file handling operations such as reading and writing JSON and CSV data.</li>
+  <li>Integrates comprehensive discussions and practical examples on various fundamental Python concepts. The topics covered include Python decorators, passing functions as arguments, nested functions, and file handling operations such as reading and writing JSON and CSV data. These additions provide a robust foundation for understanding and applying these essential Python programming techniques.</li>
   <li>Access the content on the <strong>lesson/Day_06</strong> branch:</li>
   <pre><code>git clone -b lesson/Day_06 --single-branch https://github.com/gayanukabulegoda/Python-Fundamentals-Roadmap.git</code></pre>
+</ul>
+
+### Lesson-07 - Python Open Source Libraries
+
+<ul>
+  <li>Discusses Python open source libraries such as NumPy, Pandas, and Matplotlib. It also covers Python 2D and 3D arrays with the NumPy library, providing practical examples and detailed discussions on how to use these libraries effectively.</li>
+  <li>Access the content on the <strong>lesson/Day_07</strong> branch:</li>
+  <pre><code>git clone -b lesson/Day_07 --single-branch https://github.com/gayanukabulegoda/Python-Fundamentals-Roadmap.git</code></pre>
 </ul>
 
 ## Usage
 
 To run the project, follow these steps:
+
 1. Clone the repository and navigate to the required branch.
 2. Open the project in your IDE.
 3. Build and run the application.
-    - **Ensure Python is installed on your system.**
+   - **Ensure Python is installed on your system.**
 
 ## License
 
@@ -100,7 +110,9 @@ This project is licensed under [MIT License](LICENSE).
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-100000?style=for-the-badge&logo=jupyter&logoColor=white"></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-100000?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+<a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-100000?style=for-the-badge&logo=numpy&logoColor=white"></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-100000?style=for-the-badge&logo=pandas&logoColor=white"></a>
+<a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-100000?style=for-the-badge&logo=matplotlib&logoColor=white"></a>
 </div> <br>
 <p align="center">
   &copy; 2024 Gayanuka Bulegoda
