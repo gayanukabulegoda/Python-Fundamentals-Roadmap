@@ -21,6 +21,7 @@
         <li><a href="#lesson-05---object-oriented-programming">Lesson-05 - Object-Oriented Programming</a></li>
         <li><a href="#lesson-06---essential-python-concepts">Lesson-06 - Essential Python Concepts</a></li>
         <li><a href="#lesson-07---python-open-source-libraries">Lesson-07 - Python Open Source Libraries</a></li>
+        <li><a href="#lesson-08---python-apis-data-collection-and-debugging">Lesson-08 - Python APIs, Data Collection and Debugging</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -30,7 +31,7 @@
 
 ## Note
 
-For additional reference, you can access the Python Fundamentals Handwritten note [here](https://drive.google.com/file/d/1tWt9J5agIBxBHnUBBTcdXHhs8e7VOxRU/view?usp=sharing).
+For additional reference, you can access the Python Fundamentals Handwritten note [here](https://drive.google.com/file/d/1aOfJk5J8Kr865F25PVuRvPde5ilw42vG/view?usp=sharing).
 
 ## Lessons
 
@@ -90,6 +91,14 @@ For additional reference, you can access the Python Fundamentals Handwritten not
   <pre><code>git clone -b lesson/Day_07 --single-branch https://github.com/gayanukabulegoda/Python-Fundamentals-Roadmap.git</code></pre>
 </ul>
 
+### Lesson-08 - Python APIs, Data Collection and Debugging
+
+<ul>
+  <li>Includes a series of practical exercises designed to enhance understanding and proficiency in various Python libraries and tools. The exercises cover handling third-party APIs using the <code>requests</code> library, parsing HTML with <code>Beautiful Soup</code>, performing web scraping tasks, implementing basic authentication, and debugging Python code with <code>pdb</code>. These exercises are intended to provide hands-on experience and reinforce key concepts in Python programming, particularly in the context of data retrieval, processing, and debugging.</li>
+  <li>Access the content on the <strong>lesson/Day_08</strong> branch:</li>
+  <pre><code>git clone -b lesson/Day_08 --single-branch https://github.com/gayanukabulegoda/Python-Fundamentals-Roadmap.git</code></pre>
+</ul>
+
 ## Usage
 
 To run the project, follow these steps:
@@ -103,7 +112,7 @@ To run the project, follow these steps:
 
 This project is licensed under [MIT License](LICENSE).
 
-##
+---
 
 <div align="center">
 <a href="https://github.com/gayanukabulegoda" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -115,5 +124,5 @@ This project is licensed under [MIT License](LICENSE).
 <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-100000?style=for-the-badge&logo=matplotlib&logoColor=white"></a>
 </div> <br>
 <p align="center">
-  &copy; 2024 Gayanuka Bulegoda
+  &copy; 2025 Gayanuka Bulegoda 
 </p>
