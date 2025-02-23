@@ -31,7 +31,7 @@
 
 ## Note
 
-For additional reference, you can access the Python Fundamentals Handwritten note [here](https://drive.google.com/file/d/1aOfJk5J8Kr865F25PVuRvPde5ilw42vG/view?usp=sharing).
+For additional reference, you can access the Python Fundamentals Handwritten note [here](https://drive.google.com/file/d/1dZ2x-2ooaVnGAQnfB05zX4WI1cW4IGsV/view?usp=sharing).
 
 ## Lessons
 
